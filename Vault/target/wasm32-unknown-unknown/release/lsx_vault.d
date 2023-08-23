@@ -1,1 +1,0 @@
-/data/home/Coreum/LSX-Vault/target/wasm32-unknown-unknown/release/lsx_vault.wasm: /data/home/Coreum/LSX-Vault/src/contract.rs /data/home/Coreum/LSX-Vault/src/error.rs /data/home/Coreum/LSX-Vault/src/helper.rs /data/home/Coreum/LSX-Vault/src/integration_tests.rs /data/home/Coreum/LSX-Vault/src/lib.rs /data/home/Coreum/LSX-Vault/src/msg.rs /data/home/Coreum/LSX-Vault/src/state.rs
